@@ -40,10 +40,10 @@ and cloud-native architectures.
             <li>Logo Design, UI/UX, Figma</li>
         </ul>
     </li>
-    <div style="position:absolute; right:0; bottom:0;" align="end">
+    <div style="position:absolute; right:0; bottom:0;" align="center">
   <a href="https://github.com/alitarkian">
     <img src="assets/logo.png" alt="Logo" width="140" height="100">
   </a>
-  <h3 align="end">Full stack developer</h3>
+  <h3 align="center">Full stack developer</h3>
 </div> 
 <ul>
