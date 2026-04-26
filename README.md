@@ -2,10 +2,10 @@
 
 ![banner](assets/logo.png)
 
-![GitHub Created At](https://img.shields.io/github/created-at/alitarkian/alitarkian?color=bright-green&style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/alitarkian/alitarkian?color=bright-green&style=flat-square)
-[![license](https://img.shields.io/github/license/alitarkian/alitarkian.svg?color=bright-green&style=flat-square)](LICENSE)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/alitarkian/alitarkian)
+![GitHub Created At](https://img.shields.io/github/created-at/alitarkian/alitarkian?color=black&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/alitarkian/alitarkian?color=black&style=flat-square)
+[![license](https://img.shields.io/github/license/alitarkian/alitarkian.svg?color=black&style=flat-square)](LICENSE)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-black.svg?style=flat-square)](https://github.com/alitarkian/alitarkian)
 
 This is an example file with maximal choices selected.
 
