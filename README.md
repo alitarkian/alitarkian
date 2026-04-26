@@ -1,5 +1,11 @@
 <a id="readme-top"></a>
 
+<div align="center">
+  <a href="https://github.com/alitarkian">
+    <img src="assets/logo.png" alt="ali tarkian logo" width="100" height="84">
+  </a>  
+</div>
+
 # Hello!
 
 I am a Full Stack developer, Software Architect with 25+ years of experience designing
@@ -40,10 +46,4 @@ and cloud-native architectures.
             <li>Logo Design, UI/UX, Figma</li>
         </ul>
     </li>
-    <div style="position:absolute; right:0; bottom:0;" align="center">
-  <a href="https://github.com/alitarkian">
-    <img src="assets/logo.png" alt="Logo" width="140" height="100">
-  </a>
-  <h3 align="center">Full stack developer</h3>
-</div> 
 <ul>
