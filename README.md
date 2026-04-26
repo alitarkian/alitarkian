@@ -1,70 +1,74 @@
-# Ali Tarkian Full-Stack Developer
+<a id="readme-top"></a>
 
-![banner](assets/logo.png)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/alitarkian">
+    <img src="assets/logo.png" alt="Logo" width="140" height="100">
+  </a>
 
-![GitHub Created At](https://img.shields.io/github/created-at/alitarkian/alitarkian?color=black&style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/alitarkian/alitarkian?color=black&style=flat-square)
-[![license](https://img.shields.io/github/license/alitarkian/alitarkian.svg?color=black&style=flat-square)](LICENSE)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-black.svg?style=flat-square)](https://github.com/alitarkian/alitarkian)
+  <h3 align="center">Full stack developer</h3>
+</div>
 
-This is an example file with maximal choices selected.
+# Hello!
 
-This is a long description.
+I am a Full Stack developer, Software Architect with 25+ years of experience designing
+high-load distributed backend systems using Python, Django, microservices,
+and cloud-native architectures.
 
-## Table of Contents
+## About me in a gentle list:
 
-- [Security](#security)
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
+  <ul>
+    <li>Software Architect</li>
+    <li>ERP & CRM Specialist</li>
+    <li>AI & Web Applications</li>
+    <li>Python/Django, React & Next.js</li>
+    <li>Specialized in UI/UX</li>
+    <li>Branding and digital designs</li>
+  </ul>
 
-## Security
+<!-- ABOUT THE PROJECT -->
 
-### Any optional sections
+## Skills
 
-## Background
-
-### Any optional sections
-
-## Install
-
-This module depends upon a knowledge of [Markdown]().
-
-```
-
-```
-
-### Any optional sections
-
-## Usage
-
-```
-
-```
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-### Any optional sections
-
-## API
-
-### Any optional sections
-
-## More optional sections
-
-## Contributing
-
-See [the contributing file](CONTRIBUTING.md)!
-
-PRs accepted.
-
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional sections
-
-## License
-
-[MIT © Richard McRichface.](../LICENSE)
+<ul>
+<li>Backend & APIs:
+<ul>
+<li>Python</li>
+<li>Django, Django REST Framework, FastAPI, REST APIs, Microservices Architecture</li>
+<li>PostgreSQL, MySQL, SQLite, Redis, RabbitMQ</li>
+<li>.net Core, ASP.net, MVC</li>
+<li>Node JS</li>
+</ul>
+</li>
+<li>Mobile & Frontend:
+<ul>
+<li>React Native, Expo, TypeScript</li>
+<li>Flutter, Dart</li>
+<li>Next JS 16, Bootstrap, Tailwind CSS</li>
+</ul>
+</li>
+<li>System Architecture & DevOps
+<ul>
+<li>System Design, Clean Architecture</li>
+<li>Docker, CI/CD</li>
+<li>Linux, Nginx, Cloud Deployment</li>
+</ul>
+</li>
+<li>AI & System Design
+<ul>
+<li>Adobe Photoshop, Adobe illustrator</li>
+<li>Logo Design</li>
+<li>UI/UX, Figma</li>
+</ul>
+</li>
+<li>Other:
+<ul>
+<li>ERP Systems, CRM Platforms, AI & Machine Learning (PyTorch)</li>
+<li>Blockchain Fundamentals, Payment Gateways</li>
+<li>Real-Time Systems, Technical Leadership, Cross-Functional Collaboration, Strategic Thinking
+</li>
+<li>Complex Problem Solving, System Thinking, Agile Mindset, Communication, Mentoring</li>
+</ul>
+</li>
+</ul>
