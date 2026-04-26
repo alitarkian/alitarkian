@@ -1,6 +1,6 @@
 # Ali Tarkian Full-Stack Developer
 
-![banner](assets/banner.png)
+![banner](assets/logo.png)
 
 ![GitHub Created At](https://img.shields.io/github/created-at/alitarkian/alitarkian?color=bright-green&style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/alitarkian/alitarkian?color=bright-green&style=flat-square)
