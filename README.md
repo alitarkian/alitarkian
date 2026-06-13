@@ -47,5 +47,3 @@ and cloud-native architectures.
         </ul>
     </li>
 <ul>
-
-این و هم برام update کن پس
