@@ -1,49 +1,129 @@
-<a id="readme-top"></a>
-
-<div align="center">
+```markdown
+<p align="center">
   <a href="https://github.com/alitarkian">
-    <img src="assets/logo.png" alt="ali tarkian logo" width="100" height="84">
-  </a>  
-</div>
+    <img src="assets/logo.png" alt="Ali Tarkian" width="120">
+  </a>
+</p>
 
-# Hello!
+<h1 align="center">Hi 👋 I'm Ali Tarkian</h1>
 
-I am a Full Stack developer, Software Architect with 25+ years of experience designing
-high-load distributed backend systems using Python, Django, microservices,
-and cloud-native architectures.
+<p align="center">
+Software Architect • Full Stack Engineer • AI Platform Builder
+</p>
 
-<ul>
-<li>ERP Systems, CRM Platforms, AI & Machine Learning (PyTorch)</li>
-<li>Blockchain Fundamentals, Payment Gateways</li>
-<li>Real-Time Systems, Technical Leadership, Cross-Functional Collaboration, Strategic Thinking, Complex Problem Solving, System Thinking, Agile Mindset, Communication, Mentoring</li>
-</ul>
+---
 
-## About me in a gentle list:
+## About Me
 
-<ul style="position:relative;">
-    <li>Backend & APIs:
-        <ul>
-            <li>Python, Django, Django REST Framework, FastAPI, REST APIs, Microservices Architecture</li>
-            <li>PostgreSQL, MySQL, SQLite, Redis, RabbitMQ</li>
-            <li>.net Core, ASP.net, MVC, Node JS</li>
-        </ul>
-    </li>
-    <li>Mobile & Frontend:
-        <ul>
-            <li>React Native, Expo,  Flutter, Dart</li>
-            <li>Next JS 16, Bootstrap, Tailwind CSS, TypeScript</li>
-        </ul>
-    </li>
-    <li>System Architecture & DevOps
-        <ul>
-            <li>System Design, Clean Architecture</li>
-            <li>Docker, CI/CD, Linux, Nginx, Cloud Deployment</li>
-        </ul>
-    </li>
-    <li>AI & System Design
-        <ul>
-            <li>Adobe Photoshop, Adobe illustrator</li>
-            <li>Logo Design, UI/UX, Figma</li>
-        </ul>
-    </li>
-<ul>
+I am a Software Architect and Full Stack Developer with **25+ years of experience**
+building enterprise applications, scalable SaaS platforms, and high-load distributed systems.
+
+My expertise spans backend engineering, cloud-native architectures, AI-powered applications,
+and technical leadership, helping teams transform complex business requirements into
+maintainable and scalable software solutions.
+
+---
+
+## Core Expertise
+
+### Backend & APIs
+
+- Python
+- FastAPI
+- Django
+- Django REST Framework
+- Microservices Architecture
+- REST APIs
+- WebSocket & Real-Time Systems
+
+### Databases & Messaging
+
+- PostgreSQL
+- MySQL
+- SQLite
+- Redis
+- RabbitMQ
+
+### Frontend & Mobile
+
+- Flutter & Dart
+- React Native
+- Expo
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Bootstrap
+
+### Microsoft & Cross Platform
+
+- .NET Core
+- ASP.NET MVC
+- C#
+- Node.js
+
+### AI & Intelligent Systems
+
+- LLM Applications
+- AI Agents
+- PyTorch
+- Prompt Engineering
+- RAG Architectures
+- AI Integration
+
+### Architecture & DevOps
+
+- System Design
+- Clean Architecture
+- Domain Driven Design
+- Docker
+- CI/CD
+- Linux
+- Nginx
+- Cloud Deployment
+
+### Business Platforms
+
+- ERP Systems
+- CRM Platforms
+- Enterprise SaaS
+- Payment Gateways
+- Blockchain Fundamentals
+
+### Design & Product
+
+- UI/UX Design
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Logo Design
+
+---
+
+## Professional Strengths
+
+- Enterprise Software Architecture
+- High-Performance Backend Development
+- Distributed Systems Design
+- Technical Leadership
+- Strategic Thinking
+- Complex Problem Solving
+- Cross-Functional Collaboration
+- Agile & Scrum
+- Mentoring & Team Growth
+
+---
+
+## Current Focus
+
+- AI Agents & Automation
+- Enterprise Platform Engineering
+- Modern SaaS Architecture
+- Flutter Applications
+- FastAPI Ecosystem
+- Large Language Model Integrations
+
+---
+
+> **Designing scalable systems. Building intelligent products. Delivering long-term value.**
+```
