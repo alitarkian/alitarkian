@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    ⚡ Available for high-impact AI / SaaS / Backend Architecture projects ($5K+)
+    Available for high-impact AI / SaaS / Backend Architecture projects ($5K+)
   </p>
 
 </div>
@@ -25,7 +25,7 @@
 
 <!-- ===================== VALUE PROPOSITION ===================== -->
 
-## 💡 What I Build
+## What I Build
 
 I help companies and startups build:
 
@@ -38,9 +38,9 @@ I help companies and startups build:
 
 ---
 
-## 🎯 Core Expertise
+## Core Expertise
 
-### 🧠 AI Systems Engineering
+### AI Systems Engineering
 - LLM Integration (OpenAI / local models)
 - RAG-based architectures
 - AI Agents & tool orchestration
@@ -49,7 +49,7 @@ I help companies and startups build:
 
 ---
 
-### ⚙️ Backend & Distributed Systems
+### Backend & Distributed Systems
 - High-load Python architectures
 - FastAPI / Django / DRF ecosystems
 - Microservices & event-driven design
@@ -58,7 +58,7 @@ I help companies and startups build:
 
 ---
 
-### ☁️ System Architecture
+### System Architecture
 - Clean Architecture & DDD
 - Cloud-native SaaS design
 - Multi-tenant enterprise systems
@@ -67,7 +67,7 @@ I help companies and startups build:
 
 ---
 
-## 🚀 What Makes Me Different
+## What Makes Me Different
 
 ✔ I don’t just code — I design **systems that scale business**  
 ✔ Strong focus on **AI-first architecture** (not AI add-ons)  
@@ -79,7 +79,7 @@ I help companies and startups build:
 
 <!-- ===================== TECH STACK ===================== -->
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -96,7 +96,7 @@ I help companies and startups build:
 
 <!-- ===================== PRODUCTS THINKING ===================== -->
 
-## 🧩 Product Thinking
+## Product Thinking
 
 I don’t build “features”. I build:
 
@@ -108,7 +108,7 @@ I don’t build “features”. I build:
 
 ---
 
-## 💼 Ideal Projects
+## Ideal Projects
 
 I work best on:
 
@@ -123,7 +123,7 @@ I work best on:
 
 <!-- ===================== PROOF SECTION ===================== -->
 
-## 📦 Engineering Focus
+## Engineering Focus
 
 - Scalable system design from day 1  
 - Clean, production-ready architecture  
@@ -135,7 +135,7 @@ I work best on:
 
 <!-- ===================== CTA ===================== -->
 
-## 📩 Let’s Build Something Serious
+## Let’s Build Something Serious
 
 If you're building:
 
@@ -144,12 +144,12 @@ If you're building:
 - An automation platform  
 - Or a startup MVP that needs strong architecture  
 
-👉 I can help you design and build it properly.
+I can help you design and build it properly.
 
 ---
 
 <div align="center">
 
-🔥 Open for high-impact collaborations & freelance projects ($5K+) 🔥
+Open for high-impact collaborations & freelance projects ($5K+) 
 
 </div>
