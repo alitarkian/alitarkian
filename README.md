@@ -41,3 +41,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React%20Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+I am developing 
+
+<img src="https://github.com/alitarkian/fastapi_api_boilerplate_2026/raw/main/assets/alitarkian.png" />
